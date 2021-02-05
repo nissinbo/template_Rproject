@@ -10,10 +10,10 @@
 
 - .Rや.Rmdを入れる
 
-- 00load_package
+- 00load_package.R
   - 使用するパッケージをここで一括管理
   - `pacman`パッケージで読み込む
-- 01functions
+- 01functions.R
   - 自作関数を入れる
 
 ## data
